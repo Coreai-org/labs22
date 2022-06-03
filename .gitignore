@@ -129,5 +129,10 @@ dmypy.json
 .pyre/
 
 
+# IDEs
+.idea
+.vscode
+
 # Data
-**/data/
+**/data/*
+**/data-fraud-detection/*
